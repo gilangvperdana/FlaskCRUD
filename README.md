@@ -20,3 +20,4 @@ python app.py
 ```
 docker run -d -p 80:5000 gilangvperdana/apps:flaskcrud1
 ```
+- Access on localhost:80
