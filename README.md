@@ -15,3 +15,8 @@ This project was created in the [Build a CRUD App with Flask, Bootstrap & Herok
 ```
 python app.py
 ```
+
+## Docker Image
+```
+docker run -d -p 80:5000 gilangvperdana/apps:flaskcrud1
+```
